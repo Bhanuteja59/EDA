@@ -91,12 +91,3 @@ During the EDA, several visuals helped uncover insights:
 - 🧮 **Jupyter Notebook / Google Colab**  
 
 ---
-
-## ⚙️ How to Run  
-
-Clone the repository and start exploring!  
-```bash
-git clone https://github.com/yourusername/world-happiness-eda.git
-cd world-happiness-eda
-pip install -r requirements.txt
-jupyter notebook
